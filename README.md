@@ -1,6 +1,6 @@
-# Bonjour, je suis [Ton Nom] 👋
+# Bonjour, je suis Kyfliqx 👋
 
-Passionné par [ton domaine d'expertise ou tes intérêts], j'aime [ce que tu aimes faire]. Mon objectif est de [ce que tu veux accomplir ou apprendre].
+Passionné par l'info je fini ma bio plus tars qui se connard de mathias a supprimer mon travail :trollface:. Mon objectif est de [ce que tu veux accomplir ou apprendre].
 
 ## 🌱 Actuellement...
 
