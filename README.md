@@ -1,28 +1,22 @@
 # Bonjour, je suis Kyfliqx 👋
 
-Passionné par l'info je fini ma bio plus tars qui se connard de mathias a supprimer mon travail :trollface:. Mon objectif est de [ce que tu veux accomplir ou apprendre].
+Passionné par l'info, je cherche a en apprendre un maximum sur le monde de l'informatique afinde savoir se que je veuc faire plus tard.
 
-## 🌱 Actuellement...
+## 🌱 Actuellement
 
-- 🎓 J'apprends [technologies ou compétences que tu apprends actuellement].
-- 🔭 Je travaille sur [projets sur lesquels tu travailles actuellement].
-- 🤝 Je cherche à collaborer sur [type de projets ou collaboration que tu recherches].
+- 🎓 J'apprends le python au lycée 
+
 
 ## 💼 Compétences
 
-- Langages de programmation : [Langages que tu maîtrises]
-- Outils et technologies : [Outils que tu utilises]
-- Autres compétences : [Autres compétences pertinentes]
+Pas assez pour dire que j'en ai 
 
 ## 📫 Me contacter
 
-- Email : [ton.email@example.com](mailto:ton.email@example.com)
-- LinkedIn : [TonProfilLinkedIn](https://www.linkedin.com/in/tonprofil/)
-- Twitter : [TonProfilTwitter](https://twitter.com/tonprofil)
+Je n'ai pas le temps, je suis Batman, je veille sur Gotam
 
-## ✨ Un peu plus sur moi...
 
-Je suis passionné par [hobbies ou intérêts personnels], et dans mon temps libre, j'aime [activités que tu aimes]. Je suis toujours curieux et j'aime apprendre de nouvelles choses.
+
 
 ## 📊 Statistiques GitHub
 
