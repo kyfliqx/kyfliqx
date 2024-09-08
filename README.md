@@ -4,8 +4,7 @@ Passionné par l'info, je cherche a en apprendre un maximum sur le monde de l'in
 
 ## 🌱 Actuellement
 
-- 🎓 J'apprends le python au lycée 
-
+🎓 J'apprends le python au lycée 
 
 ## 💼 Compétences
 
