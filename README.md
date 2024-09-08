@@ -1,18 +1,17 @@
-# Salut à tous , je suis Kyfliqx 👋
+# Salut à tous, je suis Kyfliqx 👋
 
-Passionné par l'info, je cherche a en apprendre un maximum sur le monde de l'informatique afinde savoir se que je veuc faire plus tard.
-Je suis également fan de l'univers des mangas et plus généralement de la culture Japonaise. 
+Passionné par l'informatique, je cherche à en apprendre un maximum sur le monde de l'informatique afin de savoir ce que je veux faire plus tard. Je suis également fan de l'univers des mangas et plus généralement de la culture japonaise.
 
-![les meilleurs seinens ](https://www.mangabox.be/wp-content/uploads/2024/07/guide-seinen-top-10.jpg) 
+![Les meilleurs seinens](https://www.mangabox.be/wp-content/uploads/2024/07/guide-seinen-top-10.jpg)
 
 ## 🎓 Actuellement
 
-J'apprends le python au lycée en france. J'étudis donc également l'anglais qui me sera primordiale pour la suite de mes études. 
+J'apprends le Python au lycée en France. J'étudie également l'anglais, qui me sera primordial pour la suite de mes études.
 
 ## 📑 Compétences
 
-Pour l'instant elle sont trop faible pour dire que j'en ai.  
+Pour l'instant, elles sont trop faibles pour dire que j'en ai.
 
 ## Autres
 
-[<span style="color:red">Exemple de mes création </span>](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[<span style="color:red">Exemple de mes créations</span>](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
