@@ -7,21 +7,12 @@ Je suis également fan de l'univers des mangas et plus généralement de la cult
 
 ## 🎓 Actuellement
 
-J'apprends le python au lycée 
+J'apprends le python au lycée en france. J'étudis donc également l'anglais qui me sera primordiale pour la suite de mes études. 
 
 ##  Compétences
 
-Pas assez pour dire que j'en ai 
+Pour l'instant elle sont trop faible pour dire que j'en ai.  
 
-##  Me contacter
-
-Je n'ai pas le temps, je suis Batman, je veille sur Gotam 🦇
+## Autres
 
 [<span style="color:red">Exemple de mes création </span>](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-## 📊 Statistiques GitHub
-
-J'ai pas encore compris a quoi ca sert 😒
-
-![Tes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=TonNomUtilisateurGitHub&show_icons=true&theme=radical)
-
